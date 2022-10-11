@@ -1,0 +1,1 @@
+javac -d bin ./src/com/company/tasks9_15/task9/*; java -classpath ./bin/com/company/tasks9_15/task9 Main
